@@ -21,7 +21,7 @@ class CategoryItem extends StatelessWidget {
   // }
 
 //named routes easier for larger applications
-//where navigation is easier with naming conventions
+//where navigation is easier with naming conventions*
   void selectCategoryNamed(BuildContext ctx) {
     Navigator.of(ctx).pushNamed(
       CategoryMealsScreen.screenName,
