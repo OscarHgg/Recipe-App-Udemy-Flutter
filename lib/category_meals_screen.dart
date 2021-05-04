@@ -22,5 +22,5 @@ class CategoryMealsScreen extends StatelessWidget {
         child: Text('The Recipes For $categoryId Category'),
       ),
     );
-  }
+}
 }
